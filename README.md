@@ -55,6 +55,7 @@ Innovative and results-driven Artificial Intelligence Researcher with strong mat
 - **[AI Content Creator Web App](https://github.com/mohamedessamcs96/AI-Content-Creator)**
 - **[AI Disease Diagnosis System Web App](https://github.com/mohamedessamcs96/AI-Health-Monitor-System)**
 - **[Oia Dental Clinick Web App](https://github.com/mohamedessamcs96/Oia-Clinick)**
+- **[Fitness Tracker Mobile App](https://github.com/mohamedessamcs96/Fitness-Calendar-App-with-React-native.git)**
 ---
 
 ### 📺 Featured Talks Sessions
