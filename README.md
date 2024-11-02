@@ -92,6 +92,9 @@ Innovative and results-driven Artificial Intelligence Researcher with strong mat
 
 ### 📊 Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=gruvbox)
+# My Profile
 
-#
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedessamcs96&show_icons=true&theme=gruvbox)](https://www.linkedin.com/in/mohamedessamomar/)
+
+
+
