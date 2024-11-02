@@ -5,9 +5,11 @@
 Innovative and results-driven Artificial Intelligence Researcher with strong mathematical skills and deep expertise in machine learning evaluation metrics and methodologies. Specialized in designing algorithms and intelligent systems that enable autonomous machine actions. Additionally, a highly-skilled Software Engineer, passionate about building world-class products by applying proven software development and engineering principles to deliver impactful solutions.
 
 <p align="left">
-   <a href="https://www.youtube.com/channel/YourChannel?sub_confirmation=1">
-      <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/YourChannelID?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   <a href="https://www.linkedin.com/in/mohamedessamomar/">
+      <img alt="LinkedIn Profile" title="Visit my LinkedIn profile" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a> 
 </p>
+
 
 ---
 
