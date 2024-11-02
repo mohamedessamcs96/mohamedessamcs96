@@ -50,8 +50,8 @@ Innovative and results-driven Artificial Intelligence Researcher with strong mat
 
 ## 🔥 Projects
 - **[Self-Driving Car - Behavior Cloning Training for Predicting Steering Angle Using Deep Learning](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle)**
-- **[Course Management System](#)**: Designed an application for managing course schedules, assignments, and student feedback.
-
+- **[AI Content Creator Web App](https://github.com/mohamedessamcs96/AI-Content-Creator)**
+- **[AI Disease Diagnosis System Web App](https://github.com/mohamedessamcs96/AI-Health-Monitor-System)**
 ---
 
 ### 📺 Featured Talks Sessions
