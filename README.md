@@ -51,11 +51,14 @@ Innovative and results-driven Artificial Intelligence Researcher with strong mat
 ---
 
 ## 🔥 Projects
+- **[UCF-101-Human-Action-Recognition Public](https://github.com/mohamedessamcs96/UCF-101-Human-Action-Recognition)**
+- **[Street Segmentation with cnn](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN.git)**
 - **[Self-Driving Car - Behavior Cloning Training for Predicting Steering Angle Using Deep Learning](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle)**
 - **[AI Content Creator Web App](https://github.com/mohamedessamcs96/AI-Content-Creator)**
 - **[AI Disease Diagnosis System Web App](https://github.com/mohamedessamcs96/AI-Health-Monitor-System)**
 - **[Oia Dental Clinick Web App](https://github.com/mohamedessamcs96/Oia-Clinick)**
 - **[Fitness Tracker Mobile App](https://github.com/mohamedessamcs96/Fitness-Calendar-App-with-React-native.git)**
+
 ---
 
 ### 📺 Featured Talks Sessions
