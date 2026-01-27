@@ -2,7 +2,7 @@
 
 **`AI Specialist | Data Scientist | Full-Stack  Engineer`**
 
-Innovative and results-driven Artificial Intelligence Researcher with strong mathematical skills and deep expertise in machine learning evaluation metrics and methodologies. Specialized in designing algorithms and intelligent systems that enable autonomous machine actions. Additionally, a highly-skilled Software Engineer, passionate about building world-class products by applying proven software development and engineering principles to deliver impactful solutions.
+Backend Lead Engineer with strong AI expertise, combining scalable backend architecture with intelligent system design. With a Master’s degree in Artificial Intelligence and experience in autonomous systems, I leverage AI knowledge to enhance backend platforms, prompt-driven applications, and intelligent workflows. Focused on building reliable, production-ready systems where solid engineering meets applied AI.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/mohamedessamomar/">
@@ -39,9 +39,13 @@ Innovative and results-driven Artificial Intelligence Researcher with strong mat
 ---
 
 ## 💼 Professional Experience
-- **Teaching Assistant** @ German International University (GIU)  
-  Conduct tutorials and manage labs in Image Processing, Computer Vision, Data Science, and Robotics.
+- **Backend Lead at SoftBlue Ocean** @ SoftBlue Ocean 
+Leading the development of scalable and secure systems for Rawatb (payments), Aqars (real estate), salary-advance services, and payroll management.
+Oversaw backend architecture, integrated multiple payment gateways, automated reconciliation, and managed accounting system integrations to deliver reliable, production-ready services.
 
+- **Research Assistant** @ German International University (GIU)  
+Conducted research in AI, Autonomous Vehicles, and Computer Vision, focusing on intelligent systems, perception, and image processing.
+Taught Software Engineering, AI, and Mobile Development, guiding students in backend architecture, SDLC, clean code, and building production-ready applications.
 ---
 
 ## 🎓 Education
@@ -51,13 +55,48 @@ Innovative and results-driven Artificial Intelligence Researcher with strong mat
 ---
 
 ## 🔥 Projects
-- **[UCF-101-Human-Action-Recognition Public](https://github.com/mohamedessamcs96/UCF-101-Human-Action-Recognition)**
-- **[Street Segmentation with cnn](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN.git)**
-- **[Self-Driving Car - Behavior Cloning Training for Predicting Steering Angle Using Deep Learning](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle)**
-- **[AI Content Creator Web App](https://github.com/mohamedessamcs96/AI-Content-Creator)**
-- **[AI Disease Diagnosis System Web App](https://github.com/mohamedessamcs96/AI-Health-Monitor-System)**
-- **[Oia Dental Clinick Web App](https://github.com/mohamedessamcs96/Oia-Clinick)**
-- **[Fitness Tracker Mobile App](https://github.com/mohamedessamcs96/Fitness-Calendar-App-with-React-native.git)**
+Ah! I get you now 😄 — you want the **English project names** to have an **Arabic-branded name like “Sanea → صانع”**, and then transliterate that Arabic name into English for consistency.
+
+Let’s rename the projects that way. Here’s the updated list:
+
+---
+
+## 🔥 Projects
+
+* **[Aman – Fuel Safety Platform](https://github.com/mohamedessamcs96/Waqood-Amen)** – **أمان الوقود**
+  A platform to track fuel usage, manage inventory, and ensure safe and efficient fuel operations.
+  *(“Aman” = Safety / Security)*
+
+* **[Sanea for Content Creators](https://github.com/mohamedessamcs96/Saneaa-for-Content-Creators)** – 
+  An AI-powered platform that helps content creators generate and manage creative content efficiently.
+
+* **[Scar – Story-to-Product Preview App](https://github.com/mohamedessamcs96/Scars)** – 
+  MVP to Transform personal stories into visual, emotional product experiences. Generate quotes, titles, and previews for physical products like T-shirts. Share stories with QR codes linking to full online narratives.
+
+* **[Sahity Tracker Mobile App](https://github.com/mohamedessamcs96/Fitness-Calendar-App-with-React-native.git)**
+  A React Native mobile app to track workouts, calories, and fitness goals with personalized reminders.
+
+* **[Green – Smart Recycling Platform](https://github.com/mohamedessamcs96/Smart-Recycling-Dashboard)** 
+  This is just MVP implemented after that for A dashboard to monitor and optimize recycling processes, visualize data, and improve operational efficiency.
+  *(“Munada” means “caller/organizer” – a creative Arabic brand name for recycling coordination)*
+
+* **[Oia Dental Clinic Web App](https://github.com/mohamedessamcs96/Oia-Clinick)**
+  A full-featured web application for dental clinic management, including appointment scheduling, patient records, and billing.
+
+
+
+* **[Getting Closer – Exploring Pedestrian Profiles to Predict Crossing Decisions](https://github.com/mohamedessamcs96/Getting-Closer-Exploring-Pedestrian-Profiles-to-Predict-Crossing-Decisions)**
+  Collected and analyzed a pedestrian dataset to predict crossing behavior using machine learning techniques.
+
+* **[UCF-101 Human Action Recognition Public](https://github.com/mohamedessamcs96/UCF-101-Human-Action-Recognition)**
+  Deep learning project for recognizing human actions from video datasets using neural networks.
+
+* **[Street Segmentation with CNN](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN.git)**
+  Convolutional Neural Network project for semantic segmentation of street images.
+
+* **[Self-Driving Car – Behavior Cloning Training for Predicting Steering Angle Using Deep Learning](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle)**
+  Deep learning project to train a self-driving car model that predicts steering angles from road images using behavior cloning.
+
 
 ---
 
