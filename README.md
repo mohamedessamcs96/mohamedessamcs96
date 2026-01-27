@@ -1,6 +1,6 @@
 # 👋 Mohamed Essam
 
-**`AI Specialist | Data Scientist | Full-Stack  Engineer`**
+**`Backend Software Engineering Lead | Data Scientist | Autonmous Vechiles Engineer`**
 
 Backend Lead Engineer with strong AI expertise, combining scalable backend architecture with intelligent system design. With a Master’s degree in Artificial Intelligence and experience in autonomous systems, I leverage AI knowledge to enhance backend platforms, prompt-driven applications, and intelligent workflows. Focused on building reliable, production-ready systems where solid engineering meets applied AI.
 
@@ -13,7 +13,7 @@ Backend Lead Engineer with strong AI expertise, combining scalable backend archi
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -32,13 +32,13 @@ Backend Lead Engineer with strong AI expertise, combining scalable backend archi
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 - **Email:** mhmd96.essam@gmail.com
 - **LinkedIn:** [mohamedessamomar](https://www.linkedin.com/in/mohamedessamomar/)
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 - **Backend Lead at SoftBlue Ocean** @ SoftBlue Ocean 
 Leading the development of scalable and secure systems for Rawatb (payments), Aqars (real estate), salary-advance services, and payroll management.
 Oversaw backend architecture, integrated multiple payment gateways, automated reconciliation, and managed accounting system integrations to deliver reliable, production-ready services.
@@ -48,20 +48,13 @@ Conducted research in AI, Autonomous Vehicles, and Computer Vision, focusing on 
 Taught Software Engineering, AI, and Mobile Development, guiding students in backend architecture, SDLC, clean code, and building production-ready applications.
 ---
 
-## 🎓 Education
+## Education
 - **Master's in Data Science** – German International University (2024 - 2025)
 - **Master's in AI** – Benha University (2022 - 2024)
 
 ---
 
-## 🔥 Projects
-Ah! I get you now 😄 — you want the **English project names** to have an **Arabic-branded name like “Sanea → صانع”**, and then transliterate that Arabic name into English for consistency.
-
-Let’s rename the projects that way. Here’s the updated list:
-
----
-
-## 🔥 Projects
+## Projects
 
 * **[Aman – Fuel Safety Platform](https://github.com/mohamedessamcs96/Waqood-Amen)** – **أمان الوقود**
   A platform to track fuel usage, manage inventory, and ensure safe and efficient fuel operations.
