@@ -50,7 +50,6 @@ Taught Software Engineering, AI, and Mobile Development, guiding students in bac
 
 ## Education
 - **Master's in Data Science** – German International University (2024 - 2025)
-- **Master's in AI** – Benha University (2022 - 2024)
 
 ---
 
