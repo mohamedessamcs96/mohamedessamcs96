@@ -55,7 +55,7 @@ Taught Software Engineering, AI, and Mobile Development, guiding students in bac
 
 ## Projects
 
-* **[Aman – Fuel Safety Platform](https://github.com/mohamedessamcs96/Waqood-Amen)** – **أمان الوقود**
+* **[Waqood Amen – Fuel Safety Platform](https://github.com/mohamedessamcs96/Waqood-Amen)** – 
   A platform to track fuel usage, manage inventory, and ensure safe and efficient fuel operations.
   *(“Aman” = Safety / Security)*
 
