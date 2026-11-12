@@ -16,12 +16,12 @@
 
 ## 🧭 About Me
 
-- 🏗️ **Backend Lead at Soft Blue Ocean**: payments, payroll and salary-advance platforms, plus LLM-powered products
-- 🤖 Work daily with **OpenAI GPT, Anthropic Claude and Google Gemini**, and fine-tune **LLMs and Vision-Language Models**
-- 🚗 Research in **autonomous vehicles**: pedestrian crossing-intention prediction from a self-collected Cairo dataset
-- 🎓 **Master's in Data Science**, German International University (GIU), including a research semester at GIU Berlin
-- 👨‍🏫 Taught Software Engineering, MERN, NestJS and Next.js at GIU; former **CS50 (Harvard) staff member** and CS50 Arabic lecturer
-- 🌍 Arabic (native) · English (professional) · German & French (limited working)
+-  **Backend Lead at Soft Blue Ocean**: payments, payroll and salary-advance platforms, plus LLM-powered products
+-  Work daily with **OpenAI GPT, Anthropic Claude and Google Gemini**, and fine-tune **LLMs and Vision-Language Models**
+-  Research in **autonomous vehicles**: pedestrian crossing-intention prediction from a self-collected Cairo dataset
+-  **Master's in Data Science**, German International University (GIU), including a research semester at GIU Berlin
+-  Taught Software Engineering, MERN, NestJS and Next.js at GIU; former **CS50 (Harvard) staff member** and CS50 Arabic lecturer
+-  Arabic (native) · English (professional) · German 
 
 ---
 
