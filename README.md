@@ -94,7 +94,7 @@
 | [**Waqood Amen: Smart Gas Station Monitoring**](https://github.com/mohamedessamcs96/Waqood-Amen) | YOLOv8 vehicle and plate detection, Arabic/English KSA plate OCR (PaddleOCR + EasyOCR), car colour detection, payment tracking; Django + React, Dockerised |
 | [**Self-Driving Car: Steering Angle Prediction**](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle) | Behaviour-cloning CNN with data augmentation that predicts steering from road images |
 | [**Autonomous Car Lane & Speed Optimisation**](https://github.com/mohamedessamcs96/Constraint-Programming-Autonomous-Car-Lane-Speed-Optimization) | Constraint programming with Google OR-Tools, visualised in a real-time Tkinter simulation |
-| [**Pothole Detection**](https://github.com/mohamedessamcs96/Pothole-Detection-using-Yolo7) · [**Road Segmentation**](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN) | YOLOv8 pothole detector and a U-Net road-segmentation model |
+| [**Pothole Detection**](https://github.com/mohamedessamcs96/Pothole-Detection-YOLOv8) · [**Road Segmentation**](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN) | YOLOv8 pothole detector and a U-Net road-segmentation model |
 
 ### 🏗️ Backend & Distributed Systems
 
