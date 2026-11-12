@@ -84,9 +84,19 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🚗 AI & Autonomous Systems
+### 🌐 Production Products (live, closed-source)
+
+| Product | What it is | My role |
+|---|---|---|
+| [**Aqar Chat**](https://aqar-chat.com/) | AI real-estate assistant on WhatsApp (Meta Business API) that uses Gemini and GPT to understand client needs, recommend properties, qualify leads and book viewings with brokers | Led the build at Soft Blue Ocean |
+| [**MaaQraah**](https://www.maaqraah.com/) | AI Quran-learning platform: speech-to-text recitation analysis, personalised feedback, auto-generated tests and live Zoom classes | Backend architecture, AI recitation assessment, Zoom integration, deployment |
+| [**KhidmaMart**](https://khidmamart.com/) | Arabic-first marketplace connecting customers across Egypt with verified service providers: request, compare offers, book, pay securely and track in real time | Soft Blue Ocean |
+| [**Rawatb**](https://rawatb.io/) | Salary-in-advance platform in Saudi Arabia that lets employees access earned wages before payday | Backend: payment gateways, automated reconciliation, Wafeq accounting integration |
+| [**Medkaa**](https://medkaa.com/login) | Healthcare recruitment platform connecting doctors, nurses and pharmacists with hospitals and clinics | Senior full-stack engineer |
+
+### 🚗 Open Source: AI & Autonomous Systems
 
 | Project | Highlights |
 |---|---|
@@ -96,7 +106,7 @@
 | [**Autonomous Car Lane & Speed Optimisation**](https://github.com/mohamedessamcs96/Constraint-Programming-Autonomous-Car-Lane-Speed-Optimization) | Constraint programming with Google OR-Tools, visualised in a real-time Tkinter simulation |
 | [**Pothole Detection**](https://github.com/mohamedessamcs96/Pothole-Detection-YOLOv8) · [**Road Segmentation**](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN) | YOLOv8 pothole detector and a U-Net road-segmentation model |
 
-### 🏗️ Backend, Distributed Systems & AI Apps
+### 🏗️ Open Source: Backend, Distributed Systems & AI Apps
 
 | Project | Highlights |
 |---|---|
