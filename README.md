@@ -1,137 +1,142 @@
-# 👋 Mohamed Essam
+<h1 align="center">Hi, I'm Mohamed Essam 👋</h1>
 
-**`Backend Software Engineering Lead | Data Scientist | Autonmous Vechiles Engineer`**
-
-Backend Lead Engineer with strong AI expertise, combining scalable backend architecture with intelligent system design. With a Master’s degree in Artificial Intelligence and experience in autonomous systems, I leverage AI knowledge to enhance backend platforms, prompt-driven applications, and intelligent workflows. Focused on building reliable, production-ready systems where solid engineering meets applied AI.
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/mohamedessamomar/">
-      <img alt="LinkedIn Profile" title="Visit my LinkedIn profile" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a> 
+<p align="center">
+  <b>Lead Software Engineer · AI Engineer · Autonomous Vehicles Researcher</b><br/>
+  Berlin, Germany · I build scalable backend systems and put LLMs, vision and speech models into production.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhmdessam96/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mhmd96.essam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.kaggle.com/mohamedessam96/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.youtube.com/@milleropenuniversity6921"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
 ---
 
-### Languages and Tools
+## 🧭 About Me
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-<br />
+- 🏗️ **Backend Lead at Soft Blue Ocean**: payments, payroll and salary-advance platforms, plus LLM-powered products
+- 🤖 Work daily with **OpenAI GPT, Anthropic Claude and Google Gemini**, and fine-tune **LLMs and Vision-Language Models**
+- 🚗 Research in **autonomous vehicles**: pedestrian crossing-intention prediction from a self-collected Cairo dataset
+- 🎓 **Master's in Data Science**, German International University (GIU), including a research semester at GIU Berlin
+- 👨‍🏫 Taught Software Engineering, MERN, NestJS and Next.js at GIU; former **CS50 (Harvard) staff member** and CS50 Arabic lecturer
+- 🌍 Arabic (native) · English (professional) · German & French (limited working)
 
 ---
 
-## Contact Me
-- **Email:** mhmd96.essam@gmail.com
-- **LinkedIn:** [mohamedessamomar](https://www.linkedin.com/in/mohamedessamomar/)
+## 💼 Experience
+
+**Soft Blue Ocean** · Backend Lead / Senior Software Engineer · *Oct 2025 – present*
+- Built backends for salary-advance and payroll systems: multi-gateway payments, automated reconciliation pipelines, and the **Wafeq** accounting integration
+- Led **Aqar**, an LLM-powered real-estate assistant that understands client needs and books meetings with agents automatically
+- Contributed to an AI-driven facility management system
+
+**Medkaa** · Senior Full-Stack Engineer · *May 2026 – Oct 2026*
+- Full-stack work on a healthcare recruitment platform connecting doctors, nurses and pharmacists with hospitals and clinics
+
+**German International University (Cairo & Berlin)** · Research Assistant · *Sep 2022 – Jul 2026*
+- Computer vision for autonomous vehicles; pedestrian intention prediction with LSTMs, ensembles and VLMs
+- Taught Software Engineering, Image Processing and Computer Vision; supervised student projects and theses
+
+**DropMe** · Senior Software Engineer · *May 2025 – Oct 2025*
+- Led frontend, backend and AI for recycling machines connected to the cloud: real-time data, dashboards, rewards, and material-classification models
+
+**US-based AI company (NDA)** · Software Engineer · *Apr 2024 – Apr 2025*
+- Full-stack AI platform with Next.js, NestJS and prompt-engineered AI interactions
+
+**Pseudocode Software Solutions** · Software Engineer · *Mar 2022 – Feb 2024*
+- Python/Django web applications and APIs, delivered remotely
+
+*Earlier: Udacity session lead, AI instructor at Creativa Hub, speech-recognition research assistant at Modern Academy, and Python/AI engineering roles.*
 
 ---
 
-## Professional Experience
-- **Backend Lead at SoftBlue Ocean** @ SoftBlue Ocean 
-Leading the development of scalable and secure systems for Rawatb (payments), Aqars (real estate), salary-advance services, and payroll management.
-Oversaw backend architecture, integrated multiple payment gateways, automated reconciliation, and managed accounting system integrations to deliver reliable, production-ready services.
+## 🛠️ Tech Stack
 
-- **Research Assistant** @ German International University (GIU)  
-Conducted research in AI, Autonomous Vehicles, and Computer Vision, focusing on intelligent systems, perception, and image processing.
-Taught Software Engineering, AI, and Mobile Development, guiding students in backend architecture, SDLC, clean code, and building production-ready applications.
----
+**Backend:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34" alt="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="34" alt="Kafka"/>
 
-## Education
-- **Master's in Data Science** – German International University (2024 - 2025)
+**AI / ML:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="34" alt="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn"/>
+&nbsp;LLMs (GPT, Claude, Gemini) · VLM fine-tuning (Qwen2-VL) · YOLOv8 · LangChain
 
----
+**Frontend & Mobile:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React / React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind"/>
 
-## Projects
-
-* **[Waqood Amen – Fuel Safety Platform](https://github.com/mohamedessamcs96/Waqood-Amen)** – 
-  A platform to track fuel usage, manage inventory, and ensure safe and efficient fuel operations.
-  *(“Aman” = Safety / Security)*
-
-* **[Sanea for Content Creators](https://github.com/mohamedessamcs96/Saneaa-for-Content-Creators)** – 
-  An AI-powered platform that helps content creators generate and manage creative content efficiently.
-
-* **[Scar – Story-to-Product Preview App](https://github.com/mohamedessamcs96/Scars)** – 
-  MVP to Transform personal stories into visual, emotional product experiences. Generate quotes, titles, and previews for physical products like T-shirts. Share stories with QR codes linking to full online narratives.
-
-* **[Sahity Tracker Mobile App](https://github.com/mohamedessamcs96/Fitness-Calendar-App-with-React-native.git)**
-  A React Native mobile app to track workouts, calories, and fitness goals with personalized reminders.
-
-* **[Green – Smart Recycling Platform](https://github.com/mohamedessamcs96/Smart-Recycling-Dashboard)** 
-  This is just MVP implemented after that for A dashboard to monitor and optimize recycling processes, visualize data, and improve operational efficiency.
-  *(“Munada” means “caller/organizer” – a creative Arabic brand name for recycling coordination)*
-
-* **[Oia Dental Clinic Web App](https://github.com/mohamedessamcs96/Oia-Clinick)**
-  A full-featured web application for dental clinic management, including appointment scheduling, patient records, and billing.
-
-
-
-* **[Getting Closer – Exploring Pedestrian Profiles to Predict Crossing Decisions](https://github.com/mohamedessamcs96/Getting-Closer-Exploring-Pedestrian-Profiles-to-Predict-Crossing-Decisions)**
-  Collected and analyzed a pedestrian dataset to predict crossing behavior using machine learning techniques.
-
-* **[UCF-101 Human Action Recognition Public](https://github.com/mohamedessamcs96/UCF-101-Human-Action-Recognition)**
-  Deep learning project for recognizing human actions from video datasets using neural networks.
-
-* **[Street Segmentation with CNN](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN.git)**
-  Convolutional Neural Network project for semantic segmentation of street images.
-
-* **[Self-Driving Car – Behavior Cloning Training for Predicting Steering Angle Using Deep Learning](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle)**
-  Deep learning project to train a self-driving car model that predicts steering angles from road images using behavior cloning.
-
+**Cloud & Tools:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux"/>
 
 ---
 
-### 📺 Featured Talks Sessions
+## 🚀 Featured Projects
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<table>
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=QTft584wrdE">
-         <img src="https://ytcards.vercel.app/?id=QTft584wrdE&title=Should+we+scare+of+Artificial+Intelligence+Google+Solution+Change|+American+University+of+Cairo+AUC&views=1.2K&timestamp=1+week+ago&duration=10:24&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Machine Learning 101"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=WbuVcqJlJcY&list=PLq506wX0MaKYjws2LhVFEvPiyM6r1pdfE">
-         <img src="https://ytcards.vercel.app/?id=WbuVcqJlJcY&title=Should+I+learn+Python&views=2.5K&timestamp=2+weeks+ago&duration=15:32&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Data Science Concepts"/>
-      </a>
-    </td>
-   </tr>
-  <tr>
-     <td>
-      <a href="https://www.youtube.com/watch?v=hUoE9zMy1xQ&list=PLq506wX0MaKYB7ofwsUUI3HQ53oaP5OBa">
-         <img src="https://ytcards.vercel.app/?id=hUoE9zMy1xQ&title=Language+Detection+Model&views=3K&timestamp=1+month+ago&duration=12:47&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="AI in Robotics"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=sz-4maB2H1U&list=PLq506wX0MaKbRYGrPFU594ns9tu6Ze-qJ">
-         <img src="https://ytcards.vercel.app/?id=sz-4maB2H1U&title=Machine+Learning+Workshop+by+Egyptian+Chinese+College&views=4K&timestamp=3+weeks+ago&duration=14:10&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250" alt="Machine Learning Workshop by ECCAT"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- END YOUTUBE-CARDS -->
+### 🚗 AI & Autonomous Systems
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/YourChannel?sub_confirmation=1)
+| Project | Highlights |
+|---|---|
+| [**Pedestrian Crossing Intention, from a Taxi Driver's Perspective**](https://github.com/mohamedessamcs96/Which-Pedestrians-Are-Likely-to-Cross-Without-Stopping-A-Taxi-Driver-Perspective) | Master's research. Self-recorded Cairo street dataset annotated in CVAT; compares a voting ensemble (83.3% acc), RoBERTa embeddings and GPT-4o Vision, plus an LSTM action classifier (86.2%) and Qwen2-VL fine-tuning |
+| [**Waqood Amen: Smart Gas Station Monitoring**](https://github.com/mohamedessamcs96/Waqood-Amen) | YOLOv8 vehicle and plate detection, Arabic/English KSA plate OCR (PaddleOCR + EasyOCR), car colour detection, payment tracking; Django + React, Dockerised |
+| [**Self-Driving Car: Steering Angle Prediction**](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle) | Behaviour-cloning CNN with data augmentation that predicts steering from road images |
+| [**Autonomous Car Lane & Speed Optimisation**](https://github.com/mohamedessamcs96/Constraint-Programming-Autonomous-Car-Lane-Speed-Optimization) | Constraint programming with Google OR-Tools, visualised in a real-time Tkinter simulation |
+| [**Pothole Detection**](https://github.com/mohamedessamcs96/Pothole-Detection-using-Yolo7) · [**Road Segmentation**](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN) | YOLOv8 pothole detector and a U-Net road-segmentation model |
 
-#
+### 🏗️ Backend & Distributed Systems
 
-### 📊 Stats
+| Project | Highlights |
+|---|---|
+| [**LightPOS: Restaurant Management System**](https://github.com/mohamedessamcs96/Leitex) | Django REST + Django Channels WebSockets for real-time orders, React/TypeScript frontend |
+| [**NextBike: Real-Time Bike Tracking**](https://github.com/mohamedessamcs96/Real-time-bike-tracker-using-kafka) | NestJS + Apache Kafka + WebSockets; live GPS events stream to a React map with zero polling |
+| [**Uber Eats Simulation: CQRS vs Blocking**](https://github.com/mohamedessamcs96/Simulating-Uber-Eats-using-Kafka-and-CQRS) | NestJS demo comparing CQRS + Kafka async architecture with a traditional synchronous design |
+| [**Reading Recommendation API**](https://github.com/mohamedessamcs96/Reading-Recommendation-API) | NestJS + Prisma + JWT role-based auth, Dockerised |
+| [**Smart Recycling Dashboard**](https://github.com/mohamedessamcs96/Smart-Recycling-Dashboard) | FastAPI image-inference API (MobileNetV2) with a React dashboard |
 
-# My Profile
+### 🧩 Products & Apps
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedessamcs96&show_icons=true&theme=gruvbox)](https://www.linkedin.com/in/mohamedessamomar/)
+| Project | Highlights |
+|---|---|
+| [**Saneaa: AI Content Creator**](https://github.com/mohamedessamcs96/Saneaa-for-Content-Creators) | Django app that generates posts and video scripts with LLMs |
+| [**AqarGPT Pipeline Diagrams**](https://github.com/mohamedessamcs96/AQAR-GPT-Diagram) | Architecture diagrams of the LLM real-estate assistant pipeline |
 
+📚 More: [ML notebooks](https://github.com/mohamedessamcs96/ml-notebooks) · [Deep learning](https://github.com/mohamedessamcs96/deep-learning-notebooks) · [Autonomous-driving perception](https://github.com/mohamedessamcs96/autonomous-driving-perception) · [Computer vision lab](https://github.com/mohamedessamcs96/computer-vision-lab) · [Speech & audio](https://github.com/mohamedessamcs96/speech-and-audio-lab) · [Teaching & workshops](https://github.com/mohamedessamcs96/teaching-and-workshops)
 
+---
 
+## 🏆 Highlights
+
+- CS50 (Harvard) staff member; taught and managed **CS50 in Arabic** across Egyptian universities (2016–2018)
+- Speaker at **GDG Ismailia** (starting a programming career) and **Eccatronix**, Egyptian Chinese College for Applied Technology
+- **Google Solution Challenge**, American University in Cairo
+
+## 📺 Talks & Sessions
+
+- [Machine Learning 101](https://www.youtube.com/watch?v=QTft584wrdE)
+- [Data Science Concepts (playlist)](https://www.youtube.com/watch?v=WbuVcqJlJcY&list=PLq506wX0MaKYjws2LhVFEvPiyM6r1pdfE)
+- [AI in Robotics (playlist)](https://www.youtube.com/watch?v=hUoE9zMy1xQ&list=PLq506wX0MaKYB7ofwsUUI3HQ53oaP5OBa)
+- [Machine Learning Workshop by ECCAT (playlist)](https://www.youtube.com/watch?v=sz-4maB2H1U&list=PLq506wX0MaKbRYGrPFU594ns9tu6Ze-qJ)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessamcs96&show_icons=true&theme=gruvbox&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedessamcs96&layout=compact&theme=gruvbox&hide_border=true" height="165" alt="Top languages"/>
+</p>
+
+<p align="center"><i>Open to roles and collaborations in backend engineering, applied AI and autonomous systems. Feel free to reach out.</i></p>
