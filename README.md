@@ -55,32 +55,32 @@
 ## 🛠️ Tech Stack
 
 **Backend:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="34" alt="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="NestJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="34" alt="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" height="34" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/django/django-plain.svg" height="34" alt="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nestjs/nestjs-original.svg" height="34" alt="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" height="34" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/apachekafka/apachekafka-original.svg" height="34" alt="Kafka"/>
 
 **AI / ML:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="34" alt="OpenCV"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/opencv/opencv-original.svg" height="34" alt="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn"/>
 &nbsp;LLMs (GPT, Claude, Gemini) · VLM fine-tuning (Qwen2-VL) · YOLOv8 · LangChain
 
 **Frontend & Mobile:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React / React Native"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/react/react-original.svg" height="34" alt="React / React Native"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind"/>
 
 **Cloud & Tools:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" height="34" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg" height="34" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg" height="34" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" height="34" alt="Linux"/>
 
 ---
 
@@ -90,9 +90,9 @@
 
 | Product | What it is | My role |
 |---|---|---|
+| [**KhidmaMart**](https://khidmamart.com/) | Arabic-first marketplace connecting customers across Egypt with verified service providers: request, compare offers, book, pay securely and track in real time | Soft Blue Ocean |
 | [**Aqar Chat**](https://aqar-chat.com/) | AI real-estate assistant on WhatsApp (Meta Business API) that uses Gemini and GPT to understand client needs, recommend properties, qualify leads and book viewings with brokers | Led the build at Soft Blue Ocean |
 | [**MaaQraah**](https://www.maaqraah.com/) | AI Quran-learning platform: speech-to-text recitation analysis, personalised feedback, auto-generated tests and live Zoom classes | Backend architecture, AI recitation assessment, Zoom integration, deployment |
-| [**KhidmaMart**](https://khidmamart.com/) | Arabic-first marketplace connecting customers across Egypt with verified service providers: request, compare offers, book, pay securely and track in real time | Soft Blue Ocean |
 | [**Rawatb**](https://rawatb.io/) | Salary-in-advance platform in Saudi Arabia that lets employees access earned wages before payday | Backend: payment gateways, automated reconciliation, Wafeq accounting integration |
 | [**Medkaa**](https://medkaa.com/login) | Healthcare recruitment platform connecting doctors, nurses and pharmacists with hospitals and clinics | Senior full-stack engineer |
 
@@ -129,18 +129,28 @@
 
 ## 📺 Talks & Sessions
 
-- [Machine Learning 101](https://www.youtube.com/watch?v=QTft584wrdE)
-- [Data Science Concepts (playlist)](https://www.youtube.com/watch?v=WbuVcqJlJcY&list=PLq506wX0MaKYjws2LhVFEvPiyM6r1pdfE)
-- [AI in Robotics (playlist)](https://www.youtube.com/watch?v=hUoE9zMy1xQ&list=PLq506wX0MaKYB7ofwsUUI3HQ53oaP5OBa)
-- [Machine Learning Workshop by ECCAT (playlist)](https://www.youtube.com/watch?v=sz-4maB2H1U&list=PLq506wX0MaKbRYGrPFU594ns9tu6Ze-qJ)
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="https://www.youtube.com/watch?v=QTft584wrdE"><img src="https://img.youtube.com/vi/QTft584wrdE/hqdefault.jpg" alt="Machine Learning 101" width="100%"/></a><br/><b>Machine Learning 101</b></td>
+    <td align="center" width="50%"><a href="https://www.youtube.com/watch?v=WbuVcqJlJcY&list=PLq506wX0MaKYjws2LhVFEvPiyM6r1pdfE"><img src="https://img.youtube.com/vi/WbuVcqJlJcY/hqdefault.jpg" alt="Data Science Concepts (playlist)" width="100%"/></a><br/><b>Data Science Concepts (playlist)</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><a href="https://www.youtube.com/watch?v=hUoE9zMy1xQ&list=PLq506wX0MaKYB7ofwsUUI3HQ53oaP5OBa"><img src="https://img.youtube.com/vi/hUoE9zMy1xQ/hqdefault.jpg" alt="AI in Robotics (playlist)" width="100%"/></a><br/><b>AI in Robotics (playlist)</b></td>
+    <td align="center" width="50%"><a href="https://www.youtube.com/watch?v=sz-4maB2H1U&list=PLq506wX0MaKbRYGrPFU594ns9tu6Ze-qJ"><img src="https://img.youtube.com/vi/sz-4maB2H1U/hqdefault.jpg" alt="Machine Learning Workshop by ECCAT (playlist)" width="100%"/></a><br/><b>Machine Learning Workshop by ECCAT (playlist)</b></td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessamcs96&show_icons=true&theme=gruvbox&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedessamcs96&layout=compact&theme=gruvbox&hide_border=true" height="165" alt="Top languages"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/github_dark/0-profile-details.svg"><img src="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" width="100%"/></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/github_dark/3-stats.svg"><img src="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/default/3-stats.svg" alt="Stats" width="32%"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" width="32%"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"><img src="https://raw.githubusercontent.com/mohamedessamcs96/mohamedessamcs96/master/profile-summary-card-output/default/2-most-commit-language.svg" alt="Commits per language" width="32%"/></picture>
 </p>
 
 <p align="center"><i>Open to roles and collaborations in backend engineering, applied AI and autonomous systems. Feel free to reach out.</i></p>
