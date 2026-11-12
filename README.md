@@ -102,11 +102,9 @@
 |---|---|
 | [**Pedestrian Crossing Intention, from a Taxi Driver's Perspective**](https://github.com/mohamedessamcs96/Which-Pedestrians-Are-Likely-to-Cross-Without-Stopping-A-Taxi-Driver-Perspective) | Master's research. Self-recorded Cairo street dataset annotated in CVAT; compares a voting ensemble (83.3% acc), RoBERTa embeddings and GPT-4o Vision, plus an LSTM action classifier (86.2%) and Qwen2-VL fine-tuning |
 | [**Waqood Amen: Smart Gas Station Monitoring**](https://github.com/mohamedessamcs96/Waqood-Amen) | YOLOv8 vehicle and plate detection, Arabic/English KSA plate OCR (PaddleOCR + EasyOCR), car colour detection, payment tracking; Django + React, Dockerised |
-| [**Self-Driving Car: Steering Angle Prediction**](https://github.com/mohamedessamcs96/Self-Driving-Car---Predicting-Steering-Angle) | Behaviour-cloning CNN with data augmentation that predicts steering from road images |
 | [**Autonomous Car Lane & Speed Optimisation**](https://github.com/mohamedessamcs96/Constraint-Programming-Autonomous-Car-Lane-Speed-Optimization) | Constraint programming with Google OR-Tools, visualised in a real-time Tkinter simulation |
-| [**Pothole Detection**](https://github.com/mohamedessamcs96/Pothole-Detection-YOLOv8) · [**Road Segmentation**](https://github.com/mohamedessamcs96/Street-Segmentation-with-CNN) | YOLOv8 pothole detector and a U-Net road-segmentation model |
 
-### 🏗️ Open Source: Backend, Distributed Systems & AI Apps
+### 🏗️ Open Source: Backend & Distributed Systems
 
 | Project | Highlights |
 |---|---|
@@ -114,10 +112,8 @@
 | [**NextBike: Real-Time Bike Tracking**](https://github.com/mohamedessamcs96/Real-time-bike-tracker-using-kafka) | NestJS + Apache Kafka + WebSockets; live GPS events stream to a React map with zero polling |
 | [**Uber Eats Simulation: CQRS vs Blocking**](https://github.com/mohamedessamcs96/Simulating-Uber-Eats-using-Kafka-and-CQRS) | NestJS demo comparing CQRS + Kafka async architecture with a traditional synchronous design |
 | [**Reading Recommendation API**](https://github.com/mohamedessamcs96/Reading-Recommendation-API) | NestJS + Prisma + JWT role-based auth, Dockerised |
-| [**Smart Recycling Dashboard**](https://github.com/mohamedessamcs96/Smart-Recycling-Dashboard) | FastAPI image-inference API (MobileNetV2) with a React dashboard |
-| [**Saneaa: AI Content Creator**](https://github.com/mohamedessamcs96/Saneaa-for-Content-Creators) | Django app that generates posts and video scripts with LLMs |
 
-📚 More: [ML notebooks](https://github.com/mohamedessamcs96/ml-notebooks) · [Deep learning](https://github.com/mohamedessamcs96/deep-learning-notebooks) · [Autonomous-driving perception](https://github.com/mohamedessamcs96/autonomous-driving-perception) · [Computer vision lab](https://github.com/mohamedessamcs96/computer-vision-lab) · [Speech & audio](https://github.com/mohamedessamcs96/speech-and-audio-lab) · [Teaching & workshops](https://github.com/mohamedessamcs96/teaching-and-workshops)
+📚 Also: [Teaching & workshops](https://github.com/mohamedessamcs96/teaching-and-workshops), course labs and workshop material from GIU, ECCAT, Creativa Hub and CS50 Arabic.
 
 ---
 
