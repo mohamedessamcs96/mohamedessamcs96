@@ -28,9 +28,16 @@
 ## 💼 Experience
 
 **Soft Blue Ocean** · Backend Lead / Senior Software Engineer · *Oct 2025 – present*
-- Built backends for salary-advance and payroll systems: multi-gateway payments, automated reconciliation pipelines, and the **Wafeq** accounting integration
-- Led **Aqar**, an LLM-powered real-estate assistant that understands client needs and books meetings with agents automatically
-- Contributed to an AI-driven facility management system
+- **KhidmaMart — Home Services Marketplace:** Led backend and AI development for a scalable, Arabic-first platform connecting customers with service providers and companies across Egypt. Designed and implemented core systems including service requests, competitive bidding, smart booking, provider matching, company service carts, payment workflows, real-time tracking, and service-zone management. Developed AI-powered Smart Booking using multimodal LLMs to analyze customer descriptions and images, identify service categories, suggest relevant services, and generate follow-up questions to better understand customer needs. Built REST APIs, database architecture, role-based access, and integrations supporting client, provider, company, and admin workflows.
+
+- **Aqar Chat — AI Real Estate Assistant:** Led development of an LLM-powered WhatsApp assistant integrating RAG, semantic search, and property recommendations to understand customer preferences, retrieve relevant listings, and automate meeting bookings with real estate agents.
+
+- **Rawatb — Payroll & Salary Advance Platform:** Built scalable financial backends supporting salary advances, payroll processing, multi-gateway payments, automated reconciliation, and **Wafeq** accounting integration.
+
+
+- **MaaQraah — AI Quran Learning Platform:** Contributed to platform development and AI-powered learning workflows supporting Quran education, recitation assessment, and online sessions.
+
+**Core Technologies:** Node.js, TypeScript, Python, PostgreSQL, Redis, REST APIs, WebSockets, LLMs, Multimodal AI, AI Agents, RAG, Vector Search, Recommendation Systems, Docker, AWS.
 
 **Medkaa** · Senior Full-Stack Engineer · *May 2026 – Oct 2026*
 - Full-stack work on a healthcare recruitment platform connecting doctors, nurses and pharmacists with hospitals and clinics
